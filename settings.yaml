@@ -1,0 +1,10 @@
+image:
+  max_width: 1200  # image max witdh. used for encryption only. if message is longer than this width, make newline in the picture.
+  padding:
+    # if you have padding with your encrypted image, or want to make padding to your encrypted product, set this value.
+    top: 0
+    right: 0
+    bottom: 0
+    left: 0
+hexahue:
+  space: white  # white or black. it used for encryption.
