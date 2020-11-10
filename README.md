@@ -2,6 +2,7 @@
 
 Hexahue decoder & encoder
 
+If you don't know Hexahue, check below or Google it.
 [What is Hexahue code](https://www.boxentriq.com/code-breaking/hexahue)
 
 ## Demo
