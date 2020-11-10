@@ -18,7 +18,7 @@ input message for encript > Hello, world.
 
 Then, you'll get the encoded image as below.
 
-[image★demo.png]
+![demo.png](https://github.com/kusuwada/hexahue/raw/image/demo.png)
 
 You can decode morse code to human message as follow.
 
